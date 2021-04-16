@@ -1,0 +1,30 @@
+Robert Sterenchak
+ICS 212 Assignment #2
+September 2, 2019
+
+    1  history
+    2  ls
+    3  ls -1
+    4  ls -a
+    5  ls ?????.c
+    6  dir
+    7  clear
+    8  history
+    9  mkdir assignments
+   10  rmdir assignments
+   11  vi filename
+   12  rm filename
+   13  cp aloha.c ggg
+   14  mv ggg g
+   15  cd ics212
+   16  ls
+   17  cd ..
+   18  ls
+   19  history
+   20  cat aloha.c
+   21  more aloha.c
+   22  less aloha.c
+   23  pwd
+   24  man pwd
+   25  history
+   26  history > SterenchakRobert02.txt

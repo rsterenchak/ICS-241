@@ -1,0 +1,9 @@
+program: SterenchakRobert08.o getdouble.o
+	gcc SterenchakRobert08.o getdouble.o -o program -lm
+
+SterenchakRobert08.o: SterenchakRobert08.c getdouble.h
+	gcc -c SterenchakRobert08.c
+
+getdouble.o: getdouble.c getdouble.h
+	gcc -c getdouble.c
+

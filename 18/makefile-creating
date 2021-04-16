@@ -1,0 +1,5 @@
+program: creating.o
+	gcc creating.o -o program
+
+creating.o: creating.c student.h
+	gcc -c creating.c
